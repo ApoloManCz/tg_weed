@@ -1,5 +1,7 @@
 ***Introducing the ultimate custom weed experience for your FiveM server! Unleash the power of cannabis with our ESX-compatible script, designed to elevate your gameplay to new heights. Immerse yourself in a dynamic world where you can cultivate, deal, and profit from the green revolution.*** :star_struck: :money_mouth_face:
 
+[Discord | Support | Community]([ttps://github.com/JayMontana36/mythic_notify](https://discord.gg/S5QtKMBZRB))
+
 > Features:
 > * Seamless Integration: Built for ESX, our script seamlessly fits into your server's framework.
 > * [Mythic Notify](https://github.com/JayMontana36/mythic_notify) Integration: Requires the Mythic Notify script for enhanced notifications and interactions.
